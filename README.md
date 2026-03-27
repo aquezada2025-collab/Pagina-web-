@@ -3,7 +3,7 @@
 ## Descripción General
 La página presenta un recorrido por la industria de los videojuegos, destacando empresas líderes y títulos icónicos. El objetivo principal de esta entrega fue demostrar el dominio de la propiedad de caja y el control de elementos multimedia (imágenes) a través de CSS.
 
-## 🖼️Gestión de Imágenes mediante CSS
+## Gestión de Imágenes mediante CSS
 
 Siguiendo las instrucciones de la actividad, toda la estilización y el dimensionamiento de las imágenes se realizó de forma **externa** en el archivo `style.css`. Se aplicaron las siguientes acciones correctivas y evolutivas:
 
